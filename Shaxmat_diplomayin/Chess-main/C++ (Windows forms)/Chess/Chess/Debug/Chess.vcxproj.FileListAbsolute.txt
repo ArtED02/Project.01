@@ -1,0 +1,20 @@
+C:\C++_Project\Chess_test_01 — копия — копия\Chess-main\C++ (Windows forms)\Chess\Chess\Debug\Chess.vcxproj.AssemblyReference.cache
+C:\C++_Project\Chess_test_01 — копия — копия\Chess-main\C++ (Windows forms)\Chess\Chess\Debug\Chess.vcxproj.SuggestedBindingRedirects.cache
+C:\C++_Project\Chess_test_01 — копия — копия\Chess-main\C++ (Windows forms)\Chess\Chess\Debug\Chess.Main.resources
+C:\C++_Project\Chess_test_01 — копия — копия\Chess-main\C++ (Windows forms)\Chess\Chess\Debug\Chess.play.resources
+C:\C++_Project\Chess_test_01 — копия — копия\Chess-main\C++ (Windows forms)\Chess\Chess\Debug\Chess.vcxproj.GenerateResource.cache
+C:\C++_Project\Chess_test_01 — копия — копия — копия\Chess-main\C++ (Windows forms)\Chess\Chess\Debug\Chess.vcxproj.AssemblyReference.cache
+C:\C++_Project\Chess_test_01 — копия — копия — копия\Chess-main\C++ (Windows forms)\Chess\Chess\Debug\Chess.vcxproj.SuggestedBindingRedirects.cache
+C:\C++_Project\Chess_test_01 — копия — копия — копия\Chess-main\C++ (Windows forms)\Chess\Chess\Debug\Chess.Main.resources
+C:\C++_Project\Chess_test_01 — копия — копия — копия\Chess-main\C++ (Windows forms)\Chess\Chess\Debug\Chess.play.resources
+C:\C++_Project\Chess_test_01 — копия — копия — копия\Chess-main\C++ (Windows forms)\Chess\Chess\Debug\Chess.vcxproj.GenerateResource.cache
+C:\Users\Artur\Desktop\C++_Project\Chess_test_01 — копия — копия\Chess-main\C++ (Windows forms)\Chess\Chess\Debug\Chess.vcxproj.AssemblyReference.cache
+C:\Users\Artur\Desktop\C++_Project\Chess_test_01 — копия — копия\Chess-main\C++ (Windows forms)\Chess\Chess\Debug\Chess.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Artur\Desktop\C++_Project\Chess_test_01 — копия — копия\Chess-main\C++ (Windows forms)\Chess\Chess\Debug\Chess.Main.resources
+C:\Users\Artur\Desktop\C++_Project\Chess_test_01 — копия — копия\Chess-main\C++ (Windows forms)\Chess\Chess\Debug\Chess.play.resources
+C:\Users\Artur\Desktop\C++_Project\Chess_test_01 — копия — копия\Chess-main\C++ (Windows forms)\Chess\Chess\Debug\Chess.vcxproj.GenerateResource.cache
+C:\Users\Artur\Desktop\C++_Project\Доделанная\Chess-main\C++ (Windows forms)\Chess\Chess\Debug\Chess.vcxproj.AssemblyReference.cache
+C:\Users\Artur\Desktop\C++_Project\Доделанная\Chess-main\C++ (Windows forms)\Chess\Chess\Debug\Chess.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Artur\Desktop\C++_Project\Доделанная\Chess-main\C++ (Windows forms)\Chess\Chess\Debug\Chess.Main.resources
+C:\Users\Artur\Desktop\C++_Project\Доделанная\Chess-main\C++ (Windows forms)\Chess\Chess\Debug\Chess.play.resources
+C:\Users\Artur\Desktop\C++_Project\Доделанная\Chess-main\C++ (Windows forms)\Chess\Chess\Debug\Chess.vcxproj.GenerateResource.cache
